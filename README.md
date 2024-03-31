@@ -4,6 +4,9 @@
 
 This is an app that will allow 107IST Members to quickly find and use member benefits that are close to them.
 
+![Current version: 2024.1.0 (3)!](<https://img.shields.io/badge/current_version-2024.1.0_(3)-blue>)  
+[TestFLight Testing Builds](https://testflight.apple.com/join/Fjx7M16y)
+
 ## Roadmap to v1
 
 Add address/partner tags
@@ -22,7 +25,7 @@ Api calls
 Main view
 
 - [ ] List view (filter closest/new/all)
-- [ ] Pull to refresh distance
+- [x] Pull to refresh distance ![Next build!](https://img.shields.io/badge/next_build-green)
 - [ ] Map view of partners
 - [x] Settings: thank you for testing badge
 - [x] Settings: 107IST links, how to become a partner
@@ -30,4 +33,4 @@ Main view
 - [ ] Settings: member id input
 - [ ] Recommend a business (QR code to partner signup, enter email address to get info sent to, or phone number and name to contact biz)
 - [ ] Partner view: suggest an edit (hours, links, address, perk)
-- [ ] Partner view: if a location is open, only show when it closes
+- [x] Partner view: if a location is open, only show when it closes ![Next build!](https://img.shields.io/badge/next_build-green)
