@@ -4,8 +4,9 @@
 
 This is an app that will allow 107IST Members to quickly find and use member benefits that are close to them.
 
-![Current version: 2024.1.0 (3)!](<https://img.shields.io/badge/current_version-2024.1.0_(3)-blue>)  
-[TestFLight Testing Builds](https://testflight.apple.com/join/Fjx7M16y)
+![Released version: unreleased!](https://img.shields.io/badge/Released_version-unreleased-purple)
+![Testing version: 2024.1.0 (3)!](<https://img.shields.io/badge/Testing_version-2024.1.0_(3)-blue>)  
+[TestFlight Testing Builds](https://testflight.apple.com/join/Fjx7M16y)
 
 ## Roadmap to v1
 
