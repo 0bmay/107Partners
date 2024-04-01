@@ -31,7 +31,7 @@ Main view
 - [x] Settings: thank you for testing badge
 - [x] Settings: 107IST links, how to become a partner
 - [x] Settings: tint theme
-- [ ] Settings: member id input ![Next build!](https://img.shields.io/badge/next_build-green)
+- [x] Settings: member id input ![Next build!](https://img.shields.io/badge/next_build-green)
 - [ ] Recommend a business (QR code to partner signup, enter email address to get info sent to, or phone number and name to contact biz)
 - [ ] Partner view: suggest an edit (hours, links, address, perk)
 - [x] Partner view: if a location is open, only show when it closes
