@@ -1,12 +1,12 @@
 # Change Log
 
 ## [Unreleased]
-###Added
+### Added
 - Search Filters: Member Benefits During Matches, Member Benefits All the Time, New and Near Me (within 5 miles)
 - You can now resest the Partner data to download fresh data
 - Partner views: Show which tags apply to the partner
 
-###Fixed
+### Fixed
 - Bug: Don't show a partner as closed if there are no day/hours set #3
 
 ## [v 2024.1.0 Build 7] - 2024-04-10Z
@@ -14,7 +14,7 @@
 - Recommend a Business
 - Suggest an Edit for a partner (Hours, Links, Address, Member Benefit)
 
-###Fixed
+### Fixed
 - Possible crash when updating Partners
 
 ## [v 2024.1.0 Build 5] - 2024-04-01Z
@@ -24,7 +24,7 @@
 - City/Providence of the Partner in the Card view
 - various UI updates
 
-###Fixed
+### Fixed
 - further optimized code and updated location logic to use less system resources
 
 ## [v 2024.1.0 Build 4] - 2024-04-01Z
