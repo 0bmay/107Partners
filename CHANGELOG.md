@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+
+## [v 2024.1.0 Build 8] - 2024-04-12Z
 ### Added
 - Search Filters: Member Benefits During Matches, Member Benefits All the Time, New and Near Me (within 5 miles)
 - You can now resest the Partner data to download fresh data
