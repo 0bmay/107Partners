@@ -13,12 +13,12 @@ This is an app that will allow 107IST Members to quickly find and use member ben
 Add address/partner tags
 
 - [ ] kid friendly, dog friendly, free wifi
-- [ ] System: member benefit during games or always
+- [x] System: member benefit during games or always ![Next build!](https://img.shields.io/badge/next_build-green)
 - [ ] Allow user to favorite a partner?
 
 ### UI/X
 
-- [ ] List view (filter closest/new/all) ![Next build!](https://img.shields.io/badge/next_build-green)
+- [x] List view (filter closest/new/all) ![Next build!](https://img.shields.io/badge/next_build-green)
 - [x] Pull to refresh distance
 - [ ] Map view of partners
 - [x] Settings: thank you for testing badge
@@ -34,7 +34,7 @@ Add address/partner tags
 Api calls
 
 - [ ] Last 3 usages for a partner
-- [ ] Add tag
+- [x] Add tag
 
 ## Release History
 
