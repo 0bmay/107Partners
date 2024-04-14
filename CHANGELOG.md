@@ -2,6 +2,19 @@
 
 ## [Unreleased]
 
+## [v 2024.2.0 Build 13] - 2024-04-14Z
+### Fixes
+- additional updates to try and fix app crashes
+- performance updates
+
+## [v 2024.2.0 Build 11] - 2024-04-13Z
+### Fixes
+- Hopefully this fixes the crashes on load (again)
+
+## [v 2024.1.0 Build 9] - 2024-04-13Z
+### Fixes
+- Hopefully this fixes the crashes on load
+
 ## [v 2024.1.0 Build 8] - 2024-04-12Z
 ### Added
 - Search Filters: Member Benefits During Matches, Member Benefits All the Time, New and Near Me (within 5 miles)
