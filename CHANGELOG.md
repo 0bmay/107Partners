@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [v 2024.2.0 Build 14] - 2024-04-15Z
+### Fixed
+- yet another fix for app crashing under certain instances
+
 ## [v 2024.2.0 Build 13] - 2024-04-14Z
 ### Fixes
 - additional updates to try and fix app crashes
