@@ -12,15 +12,18 @@ This is an app that will allow 107IST Members to quickly find and use member ben
 
 Add address/partner tags
 
-- [ ] kid friendly, dog friendly, free wifi
 - [x] System: member benefit during games or always (Build 8)
+
+## V1.2 improvements
+
+- [ ] additional tags: kid friendly, dog friendly, free wifi
 - [ ] Allow user to favorite a partner?
 
 ### UI/X
 
 - [x] List view (filter closest/new/all) (Build 8)
 - [x] Pull to refresh distance
-- [ ] Map view of partners ![Next build!](https://img.shields.io/badge/next_build-green)
+- [x] Map view of partners ![Next build!](https://img.shields.io/badge/next_build-green)
 - [x] Settings: thank you for testing badge
 - [x] Settings: 107IST links, how to become a partner
 - [x] Settings: tint theme
