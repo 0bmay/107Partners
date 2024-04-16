@@ -5,7 +5,7 @@
 This is an app that will allow 107IST Members to quickly find and use member benefits that are close to them.
 
 ![Released version: unreleased!](https://img.shields.io/badge/Released_version-unreleased-purple)
-![Testing version: 2024.2.0 (14)!](<https://img.shields.io/badge/Testing_version-2024.2.0_(14)-blue>)  
+![Testing version: 2024.2.0 (15)!](<https://img.shields.io/badge/Testing_version-2024.2.0_(15)-blue>)  
 [TestFlight Testing Builds](https://testflight.apple.com/join/Fjx7M16y)
 
 ## Roadmap to v1
@@ -23,7 +23,7 @@ Add address/partner tags
 
 - [x] List view (filter closest/new/all) (Build 8)
 - [x] Pull to refresh distance
-- [x] Map view of partners ![Next build!](https://img.shields.io/badge/next_build-green)
+- [x] Map view of partners (Build 15)
 - [x] Settings: thank you for testing badge
 - [x] Settings: 107IST links, how to become a partner
 - [x] Settings: tint theme
@@ -36,11 +36,12 @@ Add address/partner tags
 
 Api calls
 
-- [ ] Last 3 usages for a partner
+- [ ] Last 3 usages for a partner ![Next build!](https://img.shields.io/badge/next_build-green)
 - [x] Add tag
 
 ## Release History
 
+- Testing version: 2024.2.0 (15) - April 16, 2024
 - Testing version: 2024.2.0 (14) - April 15, 2024
 - Testing version: 2024.2.0 (13) - April 14, 2024
 - Testing version: 2024.2.0 (10) - April 13, 2024

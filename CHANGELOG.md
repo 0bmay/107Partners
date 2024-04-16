@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [v 2024.2.0 Build 15] - 2024-04-16Z
+### Added
+- Partners Map View on the Home screen
+- Settings option to turn off/on Partner Map View
+
+### Fixed
+- adds more error handling/reporting
+
 ## [v 2024.2.0 Build 14] - 2024-04-15Z
 ### Fixed
 - yet another fix for app crashing under certain instances
