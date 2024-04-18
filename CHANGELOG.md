@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [v 2024.2.0 Build 16] - 2024-04-18Z
+### Added
+- Normal/Compact view toggle for Partner listing
+
+### Fixed
+- Issue #5 - Bug: Distance away is not updating
+
 ## [v 2024.2.0 Build 15] - 2024-04-16Z
 ### Added
 - Partners Map View on the Home screen
