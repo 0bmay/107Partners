@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [v 2024.2.0 Build 19] - 2024-04-26Z
+### Addes
+- Onboarding: How to use the app
+- 107IST Theme
+
+### Fixes
+- Code optiizations and performance updates
+
 ## [v 2024.2.0 Build 18] - 2024-04-24Z
 ### Added
 - send anonymous logs to developers

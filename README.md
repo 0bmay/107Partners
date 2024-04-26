@@ -5,7 +5,7 @@
 This is an app that will allow 107IST Members to quickly find and use member benefits that are close to them.
 
 ![Released version: unreleased!](https://img.shields.io/badge/Released_version-unreleased-purple)
-![Testing version: 2024.2.0 (18)!](<https://img.shields.io/badge/Testing_version-2024.2.0_(18)-blue>)  
+![Testing version: 2024.2.0 (19)!](<https://img.shields.io/badge/Testing_version-2024.2.0_(19)-blue>)  
 [TestFlight Testing Builds](https://testflight.apple.com/join/Fjx7M16y)
 
 ## Roadmap to v1
@@ -13,11 +13,6 @@ This is an app that will allow 107IST Members to quickly find and use member ben
 Add address/partner tags
 
 - [x] System: member benefit during games or always (Build 8)
-
-## V1.2 improvements
-
-- [ ] additional tags: kid friendly, dog friendly, free wifi
-- [ ] Allow user to favorite a partner?
 
 ### UI/X
 
@@ -36,11 +31,23 @@ Add address/partner tags
 
 Api calls
 
-- [ ] Last 3 usages for a partner ![Next build!](https://img.shields.io/badge/next_build-green)
 - [x] Add tag
+
+## V1.2 improvements
+
+### Features
+
+- [ ] additional tags: kid friendly, dog friendly, free wifi
+- [ ] Allow user to favorite a partner?
+- [ ] Push Notifications for 107IST Events/Info
+
+### Backend
+
+- [ ] Last 3 usages for a partner
 
 ## Release History
 
+- Testing version: 2024.2.0 (19) - April 26, 2024
 - Testing version: 2024.2.0 (18) - April 23, 2024
 - Testing version: 2024.2.0 (16) - April 18, 2024
 - Testing version: 2024.2.0 (15) - April 16, 2024
