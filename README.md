@@ -1,8 +1,9 @@
-# 107 Partners
+# 107 Info
 
 ## About
 
-This is an app that will allow 107IST Members to quickly find and use member benefits that are close to them.
+This is an app that will allow 107IST Members to interact with the information they need.
+From quickly finding and using member benefits that are close to them, to volunterring events, match day drives, chants and more.
 
 ![Released version: unreleased!](https://img.shields.io/badge/Released_version-unreleased-purple)
 ![Testing version: 2024.2.0 (19)!](<https://img.shields.io/badge/Testing_version-2024.2.0_(19)-blue>)  
@@ -10,9 +11,15 @@ This is an app that will allow 107IST Members to quickly find and use member ben
 
 ## Roadmap to v1
 
-Add address/partner tags
-
+- [x] Add address/partner tags
 - [x] System: member benefit during games or always (Build 8)
+- [ ] Chant listing
+- [ ] Chant Identification
+- [ ] Blog posts
+- [ ] Event Calendar
+- [ ] Special Events (Prideraiser,etc)
+- [ ] Push Notifications for 107IST Events/Info
+
 
 ### UI/X
 
@@ -33,19 +40,12 @@ Api calls
 
 - [x] Add tag
 
-## V1.2 improvements
-
-### Features
-
-- [ ] additional tags: kid friendly, dog friendly, free wifi
-- [ ] Allow user to favorite a partner?
-- [ ] Push Notifications for 107IST Events/Info
-
 ### Backend
 
 - [ ] Last 3 usages for a partner
 
 ## Release History
+**when the app was 107 Partners** (rejected by Apple as not enough features)
 
 - Testing version: 2024.2.0 (19) - April 26, 2024
 - Testing version: 2024.2.0 (18) - April 23, 2024
